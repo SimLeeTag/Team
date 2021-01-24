@@ -4,15 +4,21 @@
 <br/>
 
 ## Member
-* BE: [Poogle(심수현)](https://github.com/suhyunsim)
+### BE: [Poogle(심수현)](https://github.com/suhyunsim)
   * [Poogle's Blog](https://suhyunsim.github.io) 
   * [BE Repository](https://github.com/SimLeeTag/photo-tag-backend/blob/dev/README.md)
-* iOS: [Lena(이근나)](https://github.com/dev-Lena)
+### iOS: [Lena(이근나)](https://github.com/dev-Lena)
   * [Lena's Blog](https://lena-chamna.netlify.app/)
   * [iOS Repository](https://github.com/SimLeeTag/photo-tag-iOS)
 
 ## Phog 포토태그 - 포그
-* 설명
+* 사진으로 메모하고 태그로 찾자!
+
+쇼핑 리스트를 사진 한 장으로 정리하고 싶을 때,
+매일의 운동 기록을 태그로 관리하고 싶을 때,
+나만의 태그로 맛집 리스트를 정리하고 싶을 때,
+포토태그 앱으로 기록하세요!
+~~수정~~
 
 <br/>
 
